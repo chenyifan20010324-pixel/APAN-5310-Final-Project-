@@ -1,6 +1,6 @@
 # APAN-5310-Final-Project
 
-This repository contains the final project for APAN-5310, developed by Group 5. The project integrates database design, data generation, query execution, and visualization using Metabase. It also includes supporting documentation, presentation materials, and reports.
+This repository contains the final project for APAN-5310 developed by Group 5. The project integrates database design, data generation, query execution, and visualization using Metabase. It also includes supporting documentation, presentation materials, and reports.
 
 
 
