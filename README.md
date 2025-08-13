@@ -18,7 +18,7 @@ This repository contains the final project for APAN-5310 developed by Group 5. T
 
 7. Presentation.pdf contains final presentation slides
 
-8. data_generation.ipynb contains notebook to generate synthetic datasets
+8. data_generation.ipynb contains notebook to generate synthetic datasets and ETL process
 
 9. project_queries.ipynb contains SQL query executions and analysis
 
