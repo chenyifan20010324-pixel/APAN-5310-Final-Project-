@@ -4,23 +4,23 @@ This repository contains the final project for APAN-5310, developed by Group 5. 
 
 
 
-data/                           # Dataset files used for analysis and testing
+1. data/ contains dataset files used for analysis and testing
 
-reference/                   # Reference materials used during project development
+2. reference/ contains feference materials used during project development
 
-ER_Diagram.pdf               # Entity-Relationship diagram for database schema
+3. ER_Diagram.pdf contains entity-Relationship diagram for database schema
 
-Group5_FinalReport.pdf       # Detailed final project report
+4. Group5_FinalReport.pdf contains Detailed final project report
 
-Metabase-dashboard.pdf       # Exported dashboard visualizations from Metabase
+5. Metabase-dashboard.pdf contains exported dashboard visualizations from Metabase
 
-Pictures used in Presentation.pdf  # Images used in the final presentation
+6. Pictures used in Presentation.pdf contains images used in the final presentation
 
-Presentation.pdf             # Final presentation slides
+7. Presentation.pdf contains final presentation slides
 
-data_generation.ipynb        # Notebook to generate synthetic datasets
+8. data_generation.ipynb contains notebook to generate synthetic datasets
 
-project_queries.ipynb        # SQL query executions and analysis
+9. project_queries.ipynb contains SQL query executions and analysis
 
-table_schema.sql             # SQL script for database schema creation
+10. table_schema.sql  contains SQL script for database schema creation
 
