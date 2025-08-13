@@ -6,7 +6,7 @@ This repository contains the final project for APAN-5310 developed by Group 5. T
 
 1. data/ contains dataset files used for analysis and testing
 
-2. reference/ contains feference materials used during project development
+2. reference/ contains reference materials used during project development
 
 3. ER_Diagram.pdf contains entity-Relationship diagram for database schema
 
